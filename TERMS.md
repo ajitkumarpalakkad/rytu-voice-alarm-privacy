@@ -10,7 +10,7 @@ not agree, please uninstall the app.
 
 Rytu Voice Alarm is provided by:
 
-Ajitkumar K
+K Ajitkumar
 Narayaneeyam, Puthur, Palakkad
 Palakkad District, Kerala, India
 Pin: 678001
@@ -96,4 +96,4 @@ These terms are governed by the laws of India, and the courts at Palakkad, Keral
 
 ## Contact
 
-Ajitkumar K— ajitkumar.palakkad@gmail.com
+K Ajitkumar — ajitkumar.palakkad@gmail.com
